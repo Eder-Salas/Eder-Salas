@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hola, mi nombre es Eder Salas 👋
+
+### Estudiante de la carrera de Ingeniería en Tecnologías Computacionales
+
+
 
 <!--
 **Eder-Salas/Eder-Salas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
