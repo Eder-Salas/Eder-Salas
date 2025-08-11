@@ -43,17 +43,13 @@ My goal? **Build tools and experiences that are productive, innovative, and just
 <h3> 💬Social </h3>
 <a href="https://discord.com/users/ederpitudo2121"> 
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-<a href="">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-<a href="">
+<a href="edersalas601@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="">
+<a href="https://www.instagram.com/eder.salass/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-<a href="">
+<a href="https://www.reddit.com/user/Eder-Salass/">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-<a href="">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-<a href="">
+<a href="https://x.com/EderPitudo21">
   <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white">
 <a>
 
