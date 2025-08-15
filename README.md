@@ -105,8 +105,8 @@ My goal? **Build tools and experiences that are productive, innovative, and just
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Eder-Salas/01_Quiz-Game">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Eder-Salas&repo=01_Quiz-Game&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="01_Quiz-Game Project" />
+        <a href="https://github.com/Eder-Salas/practicas-multimedia">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Eder-Salas&repo=practicas-multimedia&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="practicas-multimedia Project" />
         </a>
       </p>
     </td>
